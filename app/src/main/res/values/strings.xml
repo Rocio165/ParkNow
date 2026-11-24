@@ -1,3 +1,41 @@
 <resources>
     <string name="app_name">ParkNow</string>
+    <string name="enlace_esp32">ENLACE ESP32</string>
+    <string name="ayuda_enlace">Ayuda Enlace</string>
+    <string name="red_info">Red_Robotica • 192.168.4.1 (ESP32 + Arduino UNO R4)</string>
+    <string name="esp32_offline">ESP32 • OFFLINE</string>
+    <string name="conectar_wifi_esp32">Conectar a Wi-Fi ESP32</string>
+    <string name="cola_offline_zero">0 comandos pendientes en cola SQLite</string>
+    <string name="telemetria_sensores">TELEMETRÍA Y SENSORES</string>
+    <string name="ayuda_telemetria">Ayuda Telemetría</string>
+    <string name="estado_nodos_default">Hardware • Sin enlace con Red_Robotica</string>
+    <string name="sensor_ultrasonico_esperando">Sensor Ultrasónico • Esperando lectura...</string>
+    <string name="barrera_servo_cerrada">Servo Barrera • CERRADA (0°)</string>
+    <string name="heartbeat_monitor_default">Monitor en vivo • Esperando reconexión...</string>
+    <string name="control_estacionamiento">CONTROL Y ESTACIONAMIENTO</string>
+    <string name="ayuda_estacionamiento">Ayuda Estacionamiento</string>
+    <string name="sin_espacio_asignado">Sin Espacio Asignado</string>
+    <string name="subtitulo_puesto_default">Reserva tu espacio en la pestaña \'Disponibles\'.</string>
+    <string name="abrir_barrera_90">Abrir (90°)</string>
+    <string name="cerrar_barrera_0">Cerrar (0°)</string>
+    <string name="liberar_mi_espacio">Liberar mi espacio</string>
+    <string name="espacios_disponibles">Espacios disponibles</string>
+    <string name="ayuda_disponibles">Ayuda Disponibles</string>
+    <string name="espacio_a12">Espacio A-12</string>
+    <string name="zona_techada_principal">Zona Techada • Principal</string>
+    <string name="reservar">Reservar</string>
+    <string name="espacio_b04">Espacio B-04</string>
+    <string name="zona_norte_salida">Zona Norte • Salida</string>
+    <string name="espacio_c08">Espacio C-08</string>
+    <string name="zona_visitas_sensor">Zona Visitas • Sensor</string>
+    <string name="conductor_autenticado">CONDUCTOR AUTENTICADO</string>
+    <string name="correo_ejemplo">conductor@parknow.cl</string>
+    <string name="cambiar_correo">Cambiar Correo</string>
+    <string name="cambiar_clave">Cambiar Clave</string>
+    <string name="cerrar_sesion">Cerrar Sesión</string>
+
+    <string name="hint_clave_actual">Contraseña actual</string>
+    <string name="hint_nueva_clave">Nueva contraseña (mín. 6)</string>
+    <string name="hint_nuevo_correo">Nuevo correo electrónico</string>
+    <string name="perfil_info_red">• Control IoT Barrera / Sensores: Wi-Fi Local (192.168.4.1)\n• Gestión de Cuenta (Correo / Clave): Requiere Internet</string>
 </resources>
